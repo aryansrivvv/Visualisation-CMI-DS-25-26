@@ -13,8 +13,7 @@ This dashboard provides a comprehensive interface for analyzing the **NSL-KDD da
 ---
 
 ## 🔗 Live Demo
-**[Click Here to Launch the App](https://share.streamlit.io/)**
-*(Once you deploy, paste your Streamlit Cloud link here)*
+**[Click Here to Launch the App](https://nsl-kdd-dashboard.streamlit.app/)**
 
 ---
 
