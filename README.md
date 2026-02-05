@@ -1,11 +1,10 @@
-```markdown
 # 🛡️ NSL-KDD Network Intrusion Detection System
 ### An Interactive Forensic Dashboard for Cybersecurity Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75)
-![Status](https://img.shields.io/badge/Status-Live-success)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
 > **"Turning raw packet data into actionable forensic insights."**
 
@@ -75,7 +74,7 @@ To run this dashboard locally on your machine:
 git clone [https://github.com/YOUR_USERNAME/nsl-kdd-dashboard.git](https://github.com/YOUR_USERNAME/nsl-kdd-dashboard.git)
 cd nsl-kdd-dashboard
 
-```
+
 
 **2. Install Dependencies**
 
@@ -92,6 +91,19 @@ streamlit run app.py
 ```
 
 The application will open automatically in your browser at `http://localhost:8501`.
+
+---
+
+## 📂 Project Structure
+
+```text
+nsl-kdd-dashboard/
+├── app.py               # Main application source code
+├── requirements.txt     # Python dependencies
+├── README.md            # Documentation
+└── .gitignore           # Git ignore file
+
+```
 
 ---
 
@@ -117,7 +129,8 @@ Contributions, issues, and feature requests are welcome!
 
 #### 👨‍💻 Created by [Aryan Srivastava]
 
-*Connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aryan-srivastava-8782ba171/)) 
+*Connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aryan-srivastava-8782ba171/)).*
 
 ```
+
 ```
