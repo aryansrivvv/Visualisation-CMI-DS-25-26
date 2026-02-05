@@ -126,9 +126,9 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-#### 👨‍💻 Created by [Aryan Srivastava]
+#### 👨‍💻 Created by @aryansrivv
 
-*Connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aryan-srivastava-8782ba171/)). *
+*Connect with me on [LinkedIn]([https://www.linkedin.com/in/aryan-srivastava-8782ba171/]). *
 
 ```
 
